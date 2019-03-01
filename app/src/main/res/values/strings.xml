@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentsOef</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_lbl_tip">Tip</string>
+    <string name="txt_lbl_people">People</string>
+    <string name="txt_btn_calculate">Show me the money!</string>
+    <string name="txt_lbl_total">Total</string>
+</resources>
